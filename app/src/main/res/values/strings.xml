@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMH</string>
+
+    <!--Internet connection-->
+    <string name="connect_internet">Connected to Internet</string>
+    <string name="sorry_nointernet">Sorry! Not connected to internet</string>
+
+</resources>
